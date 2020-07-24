@@ -125,9 +125,9 @@ To extend the mapping between the BudgetPlanLineActiveView and BudgetPlanLine ta
     }
     ```
 
-## Sync the database and build the project
+## Build the project
 
-Synchronize your database, and build your project.
+Build your project and synchronize the database.
 
 ## Validate your changes
 
